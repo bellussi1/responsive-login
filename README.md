@@ -3,8 +3,6 @@
 Uma tela de login responsiva desenvolvida utilizando HTML, CSS e JavaScript.
 
 Você pode acessá-lo com este [link](https://bellussi1.github.io/responsive-login/).
-## Visão Geral
-Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
 
 ## Como Utilizar
 1. Clone este repositório em sua máquina local:
